@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contact Book</string>
+    <string name="save_contact">Save Contact</string>
+    <string name="update_contact">Update Contact</string>
+    <string name="alert_message_one">This app needs permission to make phone calls. Please grant the permission.</string>
+    <string name="alert_message_two">You denied the permission to make phone calls. Please grant the permission in app settings to proceed.</string>
+</resources>
