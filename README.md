@@ -28,5 +28,4 @@ Hey everyone! 👋 I'm excited to share my latest Android project, the Contact B
 2. Open the project in Android Studio.
 3. Build and run the app on your device or emulator.
 
-##Demo:
 
